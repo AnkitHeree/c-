@@ -14,5 +14,13 @@ class Program
         Console.WriteLine("Age: " + age);
         Console.WriteLine("Height: " + height);
         Console.WriteLine("Student: " + isStudent);
+        
+ Console.WriteLine("Student: " + isStudent);
+        
+         Console.WriteLine("Student: " + isStudent);
+        
+         Console.WriteLine("Student: " + isStudent);
+        
+     
     }
 }
